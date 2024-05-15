@@ -1,0 +1,30 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.body {
+  margin: auto;
+}
+
+.container {
+  margin: auto;
+  margin-inline: auto;
+}
+
+.section__top {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(246, 246, 235);
+}
+.section__top--left {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.section__top--right {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
