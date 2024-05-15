@@ -191,6 +191,7 @@ body {
 .feature__container-right-1-grid-card-1, .feature__container-right-1-grid-card-2, .feature__container-right-1-grid-card-3, .feature__container-right-1-grid-card-4, .feature__container-right-1-grid-card-5, .feature__container-right-1-grid-card-6 {
   padding: 24px 24px 40px 24px;
   border: 1px solid #e5e5e6;
+  border-radius: 8px;
 }
 .feature__container-right-1-grid-card-1 img, .feature__container-right-1-grid-card-2 img, .feature__container-right-1-grid-card-3 img, .feature__container-right-1-grid-card-4 img, .feature__container-right-1-grid-card-5 img, .feature__container-right-1-grid-card-6 img {
   width: 2.5rem;
